@@ -1,0 +1,23 @@
+:root{
+    --color1:#F9AB04;
+    --color2:#F5F904;
+}
+/*
+.gradient{
+    background: linear-gradient(to bottom,var(--color1),var(--color2));
+}
+*/
+.div-formularioRegistro{
+    width: 35%;
+    margin-top: 5%;
+    padding: 5%;
+    background: linear-gradient(to bottom,#f3f3f3 ,#626360e1);
+}
+
+.obligatorio{
+    margin-left: 10px;
+}
+
+.margenIndicadores{
+    margin-left: 30px;
+}
